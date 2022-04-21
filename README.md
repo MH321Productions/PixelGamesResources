@@ -1,7 +1,7 @@
-# AndyChi.aternos.me-MurderMinigame
+# PixelGames Resources
 
-Dieses Repository beinhaltet das Minecraft Resourcepack für das Minigame "Murder" auf unserem Server "AndyChi.aternos.me".
-Das Pack steht allen Interessierten zum Download verfügbar.
+Dieses Repository beinhaltet alle Minecraft Resourcepacks, die auf unserem Server verwendet werden.
+Hier können alle Packs manuell heruntergeladen werden.
 
-This Repository includes the Minecraft resourcepack for the minigame "Murder" on our server "AndyChi.aternos.me".
-To anyone who is interested, feel free to download it.
+This Repository includes all Minecraft resourcepacks used on our server
+Every pack can be downloaded manually here.
